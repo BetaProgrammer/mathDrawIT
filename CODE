@@ -1,0 +1,40 @@
+import it.*;
+
+public class mathDraw{
+public static void Main(String args){
+         
+         Gogga TheFive;
+         
+         class drawAFuckingFive(){
+         drawAFuckingFive(){
+            TheFive=new Gogga();
+            
+         
+         }
+           
+           drawAFuckingFive(int value){
+            
+            TheFive=new Gogga();
+            
+         
+         }
+         void draw(){
+            TheFive.setPosition(5,5);
+            TheFive.turnRight();
+            int xValue=5;
+            int yValue=5;
+            while(xValue<10){
+            TheFive.move();
+            xValue++;
+            }
+            TheFive.turnLeft();
+               while(yValue<10){
+            TheFive.move();
+            yValue++;
+            }
+            TheFive.turnLeft();
+            
+           
+                 
+         }
+         }
